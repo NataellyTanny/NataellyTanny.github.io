@@ -1,0 +1,79 @@
+* {margin: 0px;padding: 0px;}
+
+body{
+	background: #F8EFFB;
+	text-align: center;
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 20px;
+}
+
+#area-logo {
+	position: relative
+	margin: auto;
+	padding: 10px;
+}
+
+#area-menu {
+	background: #F2E0F7;
+  	width: 950px;
+  	padding: 20px;
+  	margin: auto;
+}
+#area-principal{
+  background: #EFF5FB;
+  text-align: left;
+  width: 950px;
+  padding: 20px;
+  margin: auto;
+}
+#rodape{
+	background: #F2E0F7;
+	text-align: center;
+	padding: 10px;
+	clear: both;
+}
+
+.contato {
+	padding: 20px;
+	float: left;
+}
+/*Inicio cabecalho*/
+a {
+	text-decoration: none;
+}
+
+a:link, a:visited{
+	color: #CC2EFA;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+#area-menu a:link, #area-menu a:visited{
+	color: #58D3F7;
+	padding: 8px 12px;
+}
+
+#area-menu a:hover{
+	color: #BF00FF;
+	background: white;
+	text-decoration: none;
+}
+/*Fim cabecalho*/
+
+h2 {
+	color: #4e4e4e;
+	font-family: "Times New Roman", Arial, sans-serif;
+	font-size: 25px;
+	text-align: left;
+}
+
+p {
+	padding: 10px;
+}
+
+li {
+	padding: 10px;
+}
+
